@@ -4,7 +4,7 @@
 </h1>
 
 This is the official implementation of the paper:  
-- **Mitigating Non-Representative Prototypes and Representation Bias in Few-Shot Continual Relation Extraction**
+- **[Mitigating Non-Representative Prototypes and Representation Bias in Few-Shot Continual Relation Extraction](https://aclanthology.org/2025.acl-long.530/)**
 
 ## 🚀 Updates
 - \[2025\05\16] Our paper has been accepted to ACL 2025 Main Conference!
